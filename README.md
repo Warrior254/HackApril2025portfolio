@@ -46,5 +46,4 @@ This website serves as both a personal branding tool and a demonstration of my c
 1. Clone or download the repository
 2. Open `index.html` in your browser
 3. Edit `index.html` or `styles.css` to customize further
-4. [Optional] Connect the contact form to a backend/database using PHP or Firebase
 
